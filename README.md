@@ -29,7 +29,7 @@ Just copy the file Reachability.swift into your project and import SystemConfigu
 ## Authors
 
   - **Juan Landy** -
-    [PurpleBooth](https://github.com/jlandyr)
+    [github](https://github.com/jlandyr)
 
 ## License
 
